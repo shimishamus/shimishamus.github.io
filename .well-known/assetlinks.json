@@ -1,8 +1,11 @@
 [{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "com.shimishamus.kitveihakodesh",
-        "sha256_cert_fingerprints": ["44:09:64:98:74:4C:F4:A7:B6:5C:9D:A2:7C:70:68:89:E5:6D:31:69:1E:40:2E:63:43:20:7C:BD:17:B4:41:6B"]
-      }
-    }]
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.shimishamus.kitveihakodesh",
+    "sha256_cert_fingerprints": [
+      "73:44:10:9F:3B:8B:41:A6:C9:50:B6:7B:77:9C:F5:A4:59:24:F6:D4:0C:C1:2D:6C:8D:6A:33:A7:8B:35:B5:39",
+      "44:09:64:98:74:4C:F4:A7:B6:5C:9D:A2:7C:70:68:89:E5:6D:31:69:1E:40:2E:63:43:20:7C:BD:17:B4:41:6B"
+    ]
+  }
+}]
